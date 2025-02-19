@@ -1,0 +1,8 @@
+Entity_id,description,Entity_Properties
+CUSTOMER, Customer Entity,"['Some Properties']"
+PRODUCT, Product Entity,"['Some Properties']"
+SALES, Sales Entity,"['Some Properties']"
+RETURN, Returns Entity,"['Some Properties']"
+SUPPLIER, Supplier Entity,"['Some Properties']"
+WAREHOUSE, Warehouse Entity,"['Some Properties']"
+

@@ -1,0 +1,10 @@
+1,Revenue,user_domain
+1,AOV,user_theme
+1,CLTV,user_domain
+1,PurchaseFrequency,user_domain
+1,ChurnRiskScore,user_theme
+2,BackOrderRatio,user_domain
+2,StockoutRate,user_domain
+2,ReturnRate,user_theme
+2,ChurnRiskScore,user_domain
+2,CLTV,user_domain
