@@ -1,0 +1,7 @@
+dimension_id,dimension_name,dimension_values,dimension_description
+Region,Region,"['Northwest', 'Northeast', 'Midwest', 'South', 'West']",Regions where customers are located
+Segment,Customer Segment,"['Individual', 'Corporate']",Type of customer (Individual or Corporate)
+Gender,Gender,"['Male', 'Female', 'Non-Binary']",Gender of the customer
+AgeGroup,Age Group,"['18-24', '25-34', '35-44', '45-54', '55+']",Age range of the customer
+IncomeBracket,Income Bracket,"['Low', 'Low-Medium', 'Medium', 'Medium-High', 'High']",Income level of the customer
+

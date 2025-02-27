@@ -1,0 +1,4 @@
+dimension_id,dimension_name,dimension_values,dimension_description
+PaymentType,PaymentType,"['Credit Card', 'Cash', 'Check', 'Online']", Mode of Payment
+SalesTerritory, SalesTerritory,"['Northwest', 'Northeast', 'Midwest', 'South', 'West']", Territory where sales Happened
+Order_Date,Order_Date,"['2023-11-05', '2023-07-21', '2022-12-15', '2022-09-30', '2022-06-14', '2021-08-09', '2021-04-18', '2020-11-25', '2020-07-30', '2020-03-08']", Date of Order

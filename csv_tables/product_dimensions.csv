@@ -1,0 +1,4 @@
+dimension_id,dimension_name,dimension_values,dimension_description
+ProductCategory,Product Category,"['Bikes', 'Components', 'Clothing', 'Accessories', 'Helmets']",Categories of products sold
+Color,Color,"['Red', 'Blue', 'Black', 'White', 'Green']",Color variants available for products
+Size,Size,"['Small', 'Medium', 'Large', 'X-Large']",Size variations available for products
